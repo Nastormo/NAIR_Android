@@ -1,0 +1,6 @@
+[submodule "app/src/main/cpp/third_party/volk"]
+	path = app/src/main/cpp/third_party/volk
+	url = https://github.com/zeux/volk.git
+[submodule "app/src/main/cpp/third_party/vkutils"]
+	path = app/src/main/cpp/third_party/vkutils
+	url = https://gitlab.com/vsan/vkutils.git
